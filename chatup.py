@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 
-import Tkinter                      #Tkinter GUI module
-import ttk                          #themed tkinter module
+import tkinter as Tkinter           #Tkinter GUI module
+from tkinter import ttk                          #themed tkinter module
 
 import socket                       #Socket module
 
